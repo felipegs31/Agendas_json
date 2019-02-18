@@ -445,7 +445,6 @@
 		"selected": false,
 		"color": [], 
 		"imagem": "assets/img/icones-curso/aeronautica.png",
-
         "curso":"Engenharia Aeronáutica"
 	}
 	{
@@ -1019,7 +1018,7 @@
 		"coRequisitos": ["Instrumentação"],
 		"selected": false,
 		"color": [], 
-		"imagem": "assets/img/icones-curso/aeronautica.png"
+		"imagem": "assets/img/icones-curso/aeronautica.png",
 	
 	"curso":"Engenharia Aeronáutica"
 	}
