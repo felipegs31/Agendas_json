@@ -1628,7 +1628,7 @@
 			"selected": false
 		}
 		],
-		"preRequisitos": [Propulsão de Aeronaves],
+		"preRequisitos": ["Propulsão de Aeronaves"],
 		"coRequisitos": [],
 		"selected": false,
 		"color": [], 
