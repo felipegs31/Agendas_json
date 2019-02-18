@@ -1382,7 +1382,7 @@
 		"obrigatoria": true,
 		"horarios": [26, 32,4 , 10],
 		"cargahorariaTeorica": 60,
-		"cargahorariaPratica": 00,
+		"cargahorariaPratica": 0,
 		"labs": [],
 		"preRequisitos": ["Conversão de Energia e Máquinas Elétricas"],
 		"coRequisitos": [],
