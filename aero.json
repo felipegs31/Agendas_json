@@ -17,7 +17,7 @@
 		"color": [], 
 		"imagem": "assets/img/icones-curso/aeronautica.png",
         "curso":"Engenharia Aeronáutica"
-	}
+    }
 	{
 		"nome": "Cálculo Diferencial e Integral 1",
 		"codigo": "FAMAT49010",
@@ -1533,7 +1533,7 @@
 		"obrigatoria": "false",
 		"horarios": [5, 11],
 		"cargaHorariaTeorica": 30,
-		"cargaHorariaPratica": 00,
+		"cargaHorariaPratica": 0,
 		"labs": [],
 		"preRequisitos": [],
 		"coRequisitos": [],
@@ -1549,7 +1549,7 @@
 		"obrigatoria": "false",
 		"horarios": [43, 49, 70, 76],
 		"cargaHorariaTeorica": 30,
-		"cargaHorariaPratica": 00,
+		"cargaHorariaPratica": 0,
 		"labs": [],
 		"preRequisitos": [],
 		"coRequisitos": [],
@@ -1604,7 +1604,7 @@
 		"obrigatoria": "false",
 		"horarios": [3, 9, 4, 10],
 		"cargaHorariaTeorica": 60,
-		"cargaHorariaPratica": 00,
+		"cargaHorariaPratica": 0,
 		"labs": [],
 		"preRequisitos": [],
 		"coRequisitos": [],
@@ -1643,7 +1643,7 @@
 		"obrigatoria": "false",
 		"horarios": [46, 52, 45, 51],
 		"cargaHorariaTeorica": 60,
-		"cargaHorariaPratica": 00,
+		"cargaHorariaPratica": 0,
 		"labs": [],
 		"preRequisitos": [],
 		"coRequisitos": [],
@@ -1651,5 +1651,6 @@
 		"color": [], 
 		"imagem": "assets/img/icones-curso/aeronautica.png",
         "curso":"Engenharia Aeronáutica"
-	}
+    }
+
 	
